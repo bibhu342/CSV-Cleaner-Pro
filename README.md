@@ -180,17 +180,14 @@ CSV-Cleaner-Pro/
 
 ## 👨‍💻 Author
 
-**Bibhudendu Behera**
-🚀 Aspiring AI Engineer | Freelance Data Specialist
-📍 Bangalore, India
+**Bibhudendu Behera**  
+🚀 Aspiring AI Engineer | Freelance Data Specialist  
+📍 Bangalore, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b)
 
-=======
-💼 Freelancing Focus: Data Cleaning, Automation, Python Tools
-=======
 ---
 
 ## 📜 License
 
 MIT License © 2025 — free to use and modify with attribution.
->>>>>>> 6cfcfe1 (Sync: update README, add requirements and .gitignore, finalize Streamlit app)
+
