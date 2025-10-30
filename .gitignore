@@ -1,8 +1,37 @@
-# Ignore data and temporary files
-data/raw/
-data/cleaned/
+# --- Python / Virtual Environment ---
 __pycache__/
-*.ipynb_checkpoints
-*.csv
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env/
+.venv/
+venv/
+env/
+.Python
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Data files ---
+data/cleaned/*
+data/raw/*_cleaned_*.csv
+data/raw/uploaded_*.csv
 *.log
-.env
+*.tmp
+
+# --- Jupyter / Notebooks ---
+.ipynb_checkpoints/
+*.ipynb_convert*
+.DS_Store
+
+# --- Streamlit cache ---
+.streamlit/
+.cache/
+# --- OS / Misc ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini

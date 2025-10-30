@@ -1,0 +1,4 @@
+customer_name,order_date,city,category,quantity,unit_price,sales
+Alice,2025-10-01,Delhi,Electronics,2,"₹ 1,234.50","₹ 2,469.00"
+Bob,2025-09-15,Mumbai,Home,3,"$2,345.00","$7,035.00"
+Charlie,2025-08-20,Berlin,Accessories,1,"1.234,50","1.234,50"

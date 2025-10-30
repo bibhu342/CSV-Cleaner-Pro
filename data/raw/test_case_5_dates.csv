@@ -1,0 +1,5 @@
+customer_name,order_date,city,category,quantity,unit_price,sales
+Alice,31/02/2024,Delhi,Electronics,2,1234.50,2469.00
+Bob,not-a-date,Mumbai,Home,3,2345.00,7035.00
+Charlie,2099-01-01,Berlin,Accessories,1,1234.50,1234.50
+Daisy,2025-12-15,Chennai,Clothing,2,499.99,999.98

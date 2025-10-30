@@ -1,0 +1,161 @@
+Order ID,Customer Name,City,Category,Product,Quantity,Unit Price,Sales,Order Date
+ORD2353,VIKAS,Chennai,Books,Shirt,5,676.36,2813.75,05-31-24
+ORD7077,neha,Mumbai,Clothing,TV,7,663.05,4230.48,2024-01-14
+ORD4839,RAHUL,Delhi,Books,Shirt,5,506.61,2954.95,06-12-24
+ORD3594,Arjun,Delhi,Electronics,Rice Bag,8,1896.77,16070.71,2024-09-12
+ORD6517,,Hyderabad,Furniture,Shirt,3,1671.12,5557.0,2024-08-12
+ORD2530,Sneha,Mumbai,Electronics,Shirt,1,527.44,522.19,2024-08-21
+ORD9618,Rahul,Chennai,Groceries,Laptop,8,134.89,1030.29,09/05/2024
+ORD1653,Vikas,Delhi,Furniture,Table,10,1194.89,9658.27,05-17-24
+ORD9443,ANITA,Mumbai,Groceries,Novel,1,1248.88,1119.28,05/04/2024
+ORD3347,RAHUL,Bangalore,Electronics,Novel,9,₹1899.61,19693.2,2024-11-16
+ORD9900,Arjun,Chennai,Books,Laptop,5,1866.92,7854.46,2024-05-15
+ORD6802,Priya,Hyderabad,Groceries,Laptop,2,1731.11,3567.14,
+ORD3697,VIKAS,Hyderabad,Groceries,Novel,5,874.86,5174.48,12-04-24
+ORD2476,Arjun,Mumbai,Books,Shirt,6,1085.16,7587.84,2024-05-11
+ORD6000,SNEHA,Mumbai,Clothing,Sofa,5,1735.49,10298.01,28/06/2024
+ORD9099,VIKAS,Delhi,Groceries,Table,4,392.98,1859.87,08-25-24
+ORD9700,sneha,Hyderabad,Groceries,Phone,2,1378.32,2356.89,03-21-24
+ORD2615,,Mumbai,Clothing,Phone,7,139.15,1115.9,03-15-24
+ORD2623,neha,Bangalore,Furniture,Trousers,8,924.77,5934.07,2024-01-10
+ORD9883,amit,Chennai,Books,Trousers,9,356.99,3805.09,2024-04-05
+ORD8847,vikas,Hyderabad,Electronics,Table,6,1236.18,6128.53,15/11/2024
+ORD6180,PRIYA,Chennai,Electronics,Headphones,2,1098.39,2201.95,2024-06-27
+ORD6413,Priya,Hyderabad,Books,Rice Bag,3,1460.54,5051.8,08-30-24
+ORD9005,AMIT,Bangalore,Furniture,Novel,1,519.7,533.7,2024-02-13
+ORD8612,Rahul,Hyderabad,Books,Headphones,7,1669.61,11911.07,2024-08-31
+ORD6180,PRIYA,Chennai,Electronics,Headphones,2,1098.39,2201.95,2024-06-27
+ORD3414,VIKAS,Mumbai,Clothing,Trousers,1,859.05,823.47,30/04/2024
+ORD8905,POOJA,Chennai,Groceries,Shirt,4,1847.64,7414.92,2024-02-05
+ORD3198,rahul,Delhi,Furniture,Phone,8,1314.16,11432.55,2024-06-21
+ORD1783,NEHA,Bangalore,Groceries,Sofa,8,1794.54,13705.37,2024-09-11
+ORD4365,Anita,Hyderabad,Groceries,Laptop,3,1050.83,3098.01,2024-10-13
+ORD6400,Priya,Hyderabad,Clothing,Laptop,10,659.28,5547.45,04-18-24
+ORD5342,,Delhi,Books,Phone,7,1910.57,14052.31,04/10/2024
+ORD7825,Anita,Chennai,Clothing,Novel,8,527.51,4738.9,01/06/2024
+ORD6635,ANITA,Delhi,Books,Trousers,2,1947.58,3705.91,05-30-24
+ORD4728,,Chennai,Furniture,Sofa,4,111.56,526.24,2024-04-07
+ORD3939,ARJUN,Chennai,Clothing,Shirt,1,1949.88,1991.5,
+ORD5526,RAHUL,Mumbai,Furniture,Table,7,1002.73,7743.94,08-31-24
+ORD7689,PRIYA,Delhi,Groceries,Novel,2,239.52,553.25,2024-07-17
+ORD6626,priya,Mumbai,Groceries,Trousers,9,1069.36,8310.52,24/05/2024
+ORD5173,amit,Chennai,Clothing,Rice Bag,7,186.45,1390.89,15/11/2024
+ORD7887,Neha,Hyderabad,Electronics,Sofa,9,309.33,3185.18,2024-04-01
+ORD7785,ARJUN,Chennai,Clothing,Table,7,266.24,1996.54,09-06-24
+ORD3655,sneha,Bangalore,Groceries,Laptop,6,1131.35,5709.04,03-04-24
+ORD8846,Sneha,Hyderabad,Books,Rice Bag,6,1562.25,8926.05,11-28-24
+ORD4467,Pooja,Hyderabad,Groceries,Novel,5,1678.08,8290.74,10-03-24
+ORD7062,Arjun,Chennai,Electronics,Headphones,1,353.38,389.35,2024-12-11
+ORD1685,Arjun,Delhi,Furniture,Phone,4,1350.52,5085.9,07-27-24
+ORD7244,Rahul,Mumbai,Groceries,Novel,3,1521.11,4514.99,2024-06-02
+ORD6549,priya,Mumbai,Books,Sofa,6,226.09,1299.33,01/10/2024
+ORD3762,anita,Chennai,Clothing,Headphones,10,130.33,1492.95,2024-01-24
+ORD8177,Rahul,Delhi,Electronics,Phone,10,1130.15,11701.3,
+ORD4770,Anita,Mumbai,Clothing,Headphones,3,1275.08,4442.49,01-21-24
+ORD6321,Ravi,Bangalore,Groceries,Table,2,524.47,1086.23,02-10-24
+ORD8019,Anita,Mumbai,Groceries,TV,2,1523.78,3487.75,2024-11-17
+ORD6067,Vikas,Chennai,Furniture,Shirt,7,1346.61,8970.59,
+ORD9692,Arjun,Delhi,Books,Table,4,888.64,4106.36,22/06/2024
+ORD1056,Amit,Chennai,Books,Sofa,7,1655.55,10418.43,20/03/2024
+ORD9011,Neha,Bangalore,Electronics,Novel,10,1369.41,13035.11,25/06/2024
+ORD8385,Sneha,Hyderabad,Electronics,Phone,8,1709.36,11934.56,2024-06-30
+ORD2169,Anita,Mumbai,Groceries,Shirt,7,576.4,4721.35,10-12-24
+ORD2341,Rahul,Delhi,Electronics,Headphones,1,1666.11,1934.61,2024-10-20
+ORD9540,Pooja,Delhi,Furniture,Novel,5,704.9,4078.59,2024-03-11
+ORD2294,Neha,Hyderabad,Furniture,Rice Bag,9,578.71,5337.6,11/03/2024
+ORD7643,vikas,Delhi,Furniture,Shirt,8,681.02,4899.09,15/07/2024
+ORD7242,NEHA,Mumbai,Electronics,Trousers,10,1774.26,18178.41,04-23-24
+ORD3060,Ravi,Mumbai,Books,Novel,10,875.12,7742.36,12-19-24
+ORD5668,POOJA,Mumbai,Groceries,Novel,4,767.29,3618.09,24/08/2024
+ORD5288,Arjun,Chennai,Groceries,Novel,4,289.14,1319.79,29/03/2024
+ORD2824,Amit,Mumbai,Books,Table,2,1201.46,1952.88,2024-04-21
+ORD3194,Arjun,Bangalore,Groceries,Laptop,1,1162.05,1020.12,05-27-24
+ORD7044,Pooja,Chennai,Electronics,Table,5,826.41,4490.6,26/09/2024
+ORD4886,Vikas,Bangalore,Groceries,Laptop,5,65.79,376.99,01-26-24
+ORD2976,Sneha,Mumbai,Furniture,Rice Bag,8,589.17,4882.26,11-01-24
+ORD3754,priya,Chennai,Clothing,Rice Bag,6,1468.39,9934.36,2024-04-30
+ORD5700,Sneha,Bangalore,Groceries,Trousers,8,1367.47,10988.66,03-27-24
+ORD3506,VIKAS,Chennai,Books,Novel,9,1560.55,13847.61,10-30-24
+ORD6194,Priya,Bangalore,Books,Shirt,10,404.83,4803.33,14/09/2024
+ORD1452,Priya,Chennai,Electronics,Novel,2,1213.31,2276.84,11/08/2024
+ORD3662,ravi,Bangalore,Furniture,Sofa,5,360.44,1947.3,20/01/2024
+ORD1829,Arjun,Hyderabad,Furniture,Rice Bag,6,1870.82,12217.78,2024-03-22
+ORD7022,Priya,Hyderabad,Books,TV,10,1366.2,13972.07,12-02-24
+ORD2983,Anita,Hyderabad,Electronics,Phone,9,1312.71,9511.3,07/09/2024
+ORD1298,Neha,Bangalore,Furniture,Trousers,4,1999.95,6895.65,21/02/2024
+ORD4886,Vikas,Bangalore,Groceries,Laptop,5,65.79,376.99,01-26-24
+ORD8612,Rahul,Hyderabad,Books,Headphones,7,1669.61,11911.07,2024-08-31
+ORD4618,Sneha,Hyderabad,Clothing,Headphones,7,1418.78,11571.33,12-06-24
+ORD5978,priya,Hyderabad,Books,Headphones,10,490.09,4945.15,14/08/2024
+ORD1379,Priya,Mumbai,Books,Rice Bag,6,₹144.88,793.25,11-30-24
+ORD4727,priya,Delhi,Furniture,Trousers,5,1811.68,7413.36,2024-05-30
+ORD3370,,Delhi,Furniture,Laptop,1,748.57,834.93,06-14-24
+ORD7797,Vikas,Delhi,Groceries,Rice Bag,7,1814.44,13128.24,
+ORD2946,,Bangalore,Clothing,TV,3,438.16,1319.28,01-21-24
+ORD1379,Priya,Mumbai,Books,Rice Bag,6,₹144.88,793.25,11-30-24
+ORD9950,Neha,Bangalore,Groceries,Headphones,4,1916.81,6989.48,25/04/2024
+ORD3950,RAVI,Chennai,Books,Sofa,4,1020.45,4217.57,2024-08-24
+ORD7242,NEHA,Mumbai,Electronics,Trousers,10,1774.26,18178.41,04-23-24
+ORD5836,RAVI,Mumbai,Books,Sofa,4,1023.64,4347.78,06-21-24
+ORD6400,Priya,Hyderabad,Clothing,Laptop,10,659.28,5547.45,04-18-24
+ORD7561,RAHUL,Delhi,Clothing,Phone,6,276.05,1836.87,01-01-24
+ORD1525,neha,Chennai,Furniture,Phone,8,821.48,7661.58,14/03/2024
+ORD9037,POOJA,Bangalore,Furniture,Shirt,9,1002.22,10524.15,11-24-24
+ORD7723,Rahul,Delhi,Books,Shirt,4,1143.73,5486.47,26/09/2024
+ORD4792,Arjun,Hyderabad,Furniture,Table,5,1586.26,8328.05,04-11-24
+ORD3704,Pooja,Chennai,Groceries,Laptop,10,1150.56,9329.21,08-07-24
+ORD6062,neha,Mumbai,Groceries,Headphones,2,326.66,688.12,2024-02-16
+ORD6120,arjun,Hyderabad,Electronics,Table,2,231.8,388.79,07-09-24
+ORD6763,Arjun,Hyderabad,Books,TV,10,1800.73,17922.52,11/08/2024
+ORD5658,Pooja,Delhi,Groceries,Novel,2,1653.13,3174.95,2024-10-22
+ORD8668,RAHUL,Chennai,Electronics,Laptop,9,₹1514.21,15092.06,27/02/2024
+ORD4630,Vikas,Chennai,Groceries,Phone,9,1085.3,9476.64,10-08-24
+ORD7866,anita,Hyderabad,Groceries,Table,10,845.83,9985.94,2024-12-19
+ORD5911,,Delhi,Books,Sofa,5,1603.67,8741.04,11-18-24
+ORD6236,Neha,Bangalore,Furniture,Novel,3,1597.71,4809.92,2024-04-12
+ORD6482,Priya,Hyderabad,Clothing,Novel,10,1752.9,16360.6,12-05-24
+ORD1897,AMIT,Mumbai,Clothing,Shirt,5,689.84,2770.02,08-08-24
+ORD7761,vikas,Mumbai,Furniture,Novel,6,1311.08,9195.05,17/02/2024
+ORD1647,PRIYA,Chennai,Furniture,TV,8,457.33,4254.31,08/01/2024
+ORD2479,Anita,Chennai,Electronics,TV,8,1822.65,14999.14,2024-06-13
+ORD5315,Rahul,Delhi,Books,Novel,10,437.88,4157.96,2024-10-03
+ORD3697,Ravi,Bangalore,Clothing,TV,2,538.68,1135.56,05-20-24
+ORD8062,Neha,Delhi,Electronics,Table,7,1470.02,11527.4,2024-05-07
+ORD3068,Rahul,Delhi,Electronics,Trousers,9,1825.36,13243.45,2024-07-28
+ORD1049,sneha,Bangalore,Books,Table,1,1872.44,1549.65,17/01/2024
+ORD2139,Amit,Delhi,Electronics,Rice Bag,7,592.05,4369.28,24/03/2024
+ORD5033,Anita,Hyderabad,Books,Headphones,9,666.92,5427.9,06-09-24
+ORD2876,ravi,Delhi,Books,Novel,7,823.48,6260.13,2024-10-30
+ORD6464,Sneha,Mumbai,Books,Table,4,1193.45,5371.58,2024-06-17
+ORD7868,Anita,Delhi,Furniture,Rice Bag,2,246.75,USD 401.43,12-10-24
+ORD1187,Arjun,Delhi,Groceries,Table,5,361.45,1941.76,06-08-24
+ORD8622,arjun,Hyderabad,Books,Phone,5,1295.93,6283.47,21/08/2024
+ORD6927,Anita,Delhi,Clothing,Rice Bag,9,305.48,2516.21,09-05-24
+ORD3621,AMIT,Chennai,Electronics,Trousers,3,181.11,603.86,04/07/2024
+ORD3330,PRIYA,Bangalore,Books,Headphones,5,906.35,4475.01,24/12/2024
+ORD4839,RAHUL,Delhi,Books,Shirt,5,506.61,2954.95,06-12-24
+ORD4090,Sneha,Hyderabad,Clothing,Laptop,8,1425.19,12821.73,05/12/2024
+ORD1986,,Mumbai,Clothing,Rice Bag,2,356.26,619.55,2024-03-21
+ORD8205,Priya,Bangalore,Electronics,Headphones,6,1039.31,5762.95,20/01/2024
+ORD5291,,Hyderabad,Electronics,TV,2,196.73,453.75,2024-10-06
+ORD9318,Arjun,Bangalore,Books,Headphones,8,1737.26,13600.92,25/06/2024
+ORD9692,Arjun,Delhi,Books,Table,4,888.64,4106.36,22/06/2024
+ORD4267,Arjun,Delhi,Furniture,Headphones,9,1490.44,15293.7,
+ORD1659,amit,Delhi,Furniture,Headphones,4,296.13,1264.81,04-21-24
+ORD3370,,Delhi,Furniture,Laptop,1,748.57,834.93,06-14-24
+ORD9928,VIKAS,Chennai,Electronics,Novel,3,1411.37,3963.55,2024-04-20
+ORD8245,ARJUN,Chennai,Groceries,Sofa,2,966.52,1862.17,09/12/2024
+ORD7504,POOJA,Bangalore,Electronics,Laptop,5,1157.53,4878.53,25/05/2024
+ORD8498,AMIT,Delhi,Electronics,Rice Bag,6,1870.07,11289.46,08-30-24
+ORD9647,VIKAS,Bangalore,Clothing,Rice Bag,2,143.11,277.04,08-22-24
+ORD8609,sneha,Bangalore,Groceries,Phone,3,1533.3,4627.46,2024-06-12
+ORD2234,Ravi,Hyderabad,Books,Headphones,8,1378.21,12710.62,11-21-24
+ORD2862,Priya,Chennai,Electronics,Headphones,8,1032.49,9731.56,2024-12-03
+ORD8487,Ravi,Bangalore,Clothing,Headphones,3,816.26,2562.89,30/10/2024
+ORD7785,ARJUN,Chennai,Clothing,Table,7,266.24,1996.54,09-06-24
+ORD4450,NEHA,Bangalore,Groceries,TV,5,₹1815.41,10333.69,2024-11-20
+ORD2627,Neha,Bangalore,Groceries,Laptop,5,420.13,1783.17,
+ORD6759,POOJA,Bangalore,Groceries,Headphones,5,1296.97,7240.93,2024-02-08
+ORD8579,sneha,Chennai,Electronics,Table,9,1680.25,17959.16,2024-03-26
+ORD7421,Ravi,Bangalore,Groceries,TV,6,1635.71,10482.09,12-16-24
+ORD2698,Anita,Delhi,Books,Phone,6,1636.34,8542.04,08-25-24
