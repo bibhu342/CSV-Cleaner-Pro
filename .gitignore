@@ -1,0 +1,8 @@
+# Ignore data and temporary files
+data/raw/
+data/cleaned/
+__pycache__/
+*.ipynb_checkpoints
+*.csv
+*.log
+.env
