@@ -1,5 +1,7 @@
 ![CSV Cleaner Pro Banner](banner.png)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+
 # 🧹 CSV-Cleaner-Pro
 
 ### A Python + Streamlit Powered Data Cleaning Automation Tool
