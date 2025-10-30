@@ -146,8 +146,6 @@ CSV-Cleaner-Pro/
 | `kaggle_test_2_retail_sales.csv` | Retail transaction dataset        | ✅      |
 | `kaggle_test_3_sales_usa.csv`    | US-based sales dataset            | ✅      |
 
-> 🗑 **Note:** The Diwali dataset was removed since its schema doesn’t match the sales-data format.
-
 ---
 
 ## 🧮 Demo Screenshots
