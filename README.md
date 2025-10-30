@@ -185,7 +185,7 @@ CSV-Cleaner-Pro/
 📍 Bangalore, India
 🔗 [LinkedIn](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b)
 
-<<<<<<< HEAD
+=======
 💼 Freelancing Focus: Data Cleaning, Automation, Python Tools
 =======
 ---
