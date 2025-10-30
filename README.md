@@ -1,5 +1,13 @@
+![CSV Cleaner Pro Banner](banner.png)
+
 # 🧹 CSV-Cleaner-Pro
 ### A Python-Powered Data Cleaning Automation Tool
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-green?logo=pandas&logoColor=white)
+![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)
+![GitHub last commit](https://img.shields.io/github/last-commit/bibhu342/CSV-Cleaner-Pro)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
