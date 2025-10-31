@@ -1,16 +1,51 @@
 ![CSV Cleaner Pro Banner](banner.png)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/)
 
-# 🧹 CSV-Cleaner-Pro
-
-### A Python + Streamlit Powered Data Cleaning Automation Tool
+# 🧹 CSV-Cleaner-Pro  
+**Clean, validate, and standardize messy CSV sales data — instantly.**  
+*A Python + Streamlit powered automation tool for data specialists, analysts, and freelancers.*
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-green?logo=pandas\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bibhu342/CSV-Cleaner-Pro)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
+## 🌐 Live Demo  
+👉 **Try it now (hosted on Streamlit Cloud):**  
+🔗 [https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/](https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/)
+
+---
+
+## 💡 Problem It Solves  
+Real-world CSV files often contain inconsistent column names, mixed date formats, currency symbols, and duplicate rows.  
+**CSV-Cleaner-Pro** automates the entire cleaning process using Python + Pandas, instantly transforming raw CSVs into analysis-ready data — saving hours of manual cleanup.
+
+---
+
+## ⚙️ Tech Stack  
+
+| Category | Tools |
+|-----------|--------|
+| **Language** | Python 3.11 |
+| **Framework** | [Streamlit](https://streamlit.io) |
+| **Libraries** | Pandas, NumPy, Pathlib |
+| **Environment** | VS Code, GitHub, Streamlit Cloud |
+
+---
+
+## 🚀 Quickstart  
+
+```bash
+git clone https://github.com/bibhudendu-behera/CSV-Cleaner-Pro.git
+cd CSV-Cleaner-Pro
+pip install -r requirements.txt
+streamlit run scripts/app.py
+Then open http://localhost:8501
+```
 
 ---
 
