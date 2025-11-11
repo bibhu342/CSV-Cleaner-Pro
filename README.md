@@ -23,6 +23,12 @@
 |-----------------|----------------------|
 | ![Before](assets/demo_clean_1.png) | ![After](assets/demo_clean_3.png) |
 
+### 🪄 Before → Processing → After Demo
+
+<p align="center">
+  <img src="assets/demo_showcase.gif" alt="CSV Cleaner Pro Demo" width="800" />
+</p>
+
 👉 **Try it now (hosted on Streamlit Cloud):**  
 🔗 [https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/](https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/)
 
@@ -233,4 +239,36 @@ CSV-Cleaner-Pro/
 ## 📜 License
 
 MIT License © 2025 — free to use and modify with attribution.
+
+---
+
+## 📦 Quickstart
+
+1. **Clone**
+    ```bash
+    git clone https://github.com/bibhu342/CSV-Cleaner-Pro.git
+    cd CSV-Cleaner-Pro
+
+2. **Create & activate venv**
+    ```bash
+    python -m venv .venv
+    .\.venv\Scripts\Activate.ps1   # PowerShell
+    # or: source .venv/bin/activate  # macOS / Linux
+
+2. **Install & run**
+    ```bash
+    python -m pip install -e .
+    csv-cleaner --input path/to/raw.csv --output path/to/clean.csv
+
+📞 Contact / Hire Me
+
+Need a customized CSV-cleaning solution or automation setup?
+
+GitHub : [bibhu342](https://github.com/bibhu342)
+
+LinkedIn : [Bibhudendu Behera](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b/)
+
+Email : bibhu342@gmail.com
+
+
 
