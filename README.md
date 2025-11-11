@@ -1,5 +1,7 @@
 ![CSV Cleaner Pro Banner](banner.png)
 
+[![CI](https://github.com/bibhu342/CSV-Cleaner-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/bibhu342/CSV-Cleaner-Pro/actions)
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/)
 
 # 🧹 CSV-Cleaner-Pro  
@@ -15,6 +17,12 @@
 ---
 
 ## 🌐 Live Demo  
+
+### 🪄 Before → After Preview
+| Input CSV (Raw) | Cleaned CSV (Output) |
+|-----------------|----------------------|
+| ![Before](assets/demo_clean_1.png) | ![After](assets/demo_clean_3.png) |
+
 👉 **Try it now (hosted on Streamlit Cloud):**  
 🔗 [https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/](https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/)
 
