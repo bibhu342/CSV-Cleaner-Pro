@@ -1,0 +1,3 @@
+customer_name,order_date,quantity,unit_price,sales,city,category,product
+Alice,2025-01-01,2,10.0,20.0,Mumbai,Gadgets,Usb
+Nan,,3,15.0,45.0,Bangalore,Home,Fan

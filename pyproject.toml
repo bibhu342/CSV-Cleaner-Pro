@@ -1,0 +1,18 @@
+[project]
+name = "csv-cleaner-pro"
+version = "0.1.0"
+description = "Clean, validate, and standardize messy sales CSVs."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.0.0"]
+
+[project.scripts]
+csv-cleaner = "csv_cleaner.cli:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+exclude = ["assets", "data", "notebooks"]
