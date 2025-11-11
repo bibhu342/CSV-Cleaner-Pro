@@ -2,7 +2,9 @@
 
 [![CI](https://github.com/bibhu342/CSV-Cleaner-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/bibhu342/CSV-Cleaner-Pro/actions)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://csv-cleaner-pro-qy34r3dkdap9d327sn375l.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://csv-cleaner-pro-bibhu342.streamlit.app)
+
+> 💻 Live Demo: Upload any CSV and see instant data cleaning results.
 
 # 🧹 CSV-Cleaner-Pro  
 **Clean, validate, and standardize messy CSV sales data — instantly.**  
