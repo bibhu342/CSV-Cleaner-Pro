@@ -1,21 +1,31 @@
 ![CSV Cleaner Pro Banner](banner.png)
 
-[![CI](https://github.com/bibhu342/CSV-Cleaner-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/bibhu342/CSV-Cleaner-Pro/actions)
+# 🧹 CSV-Cleaner-Pro 🚀  
+**Clean, validate, and standardize messy CSV sales data — instantly.**  
+*A Python + Streamlit powered automation tool for analysts, businesses, and freelancers.*
 
+[![CI](https://github.com/bibhu342/CSV-Cleaner-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/bibhu342/CSV-Cleaner-Pro/actions)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://csv-cleaner-pro-bibhu342.streamlit.app)
 
-> 💻 Live Demo: Upload any CSV and see instant data cleaning results.
+> 💻 **Live Demo:** [Try it on Streamlit Cloud](https://csv-cleaner-pro-bibhu342.streamlit.app) — Upload any CSV and get a cleaned file instantly.
 
-# 🧹 CSV-Cleaner-Pro  
-**Clean, validate, and standardize messy CSV sales data — instantly.**  
-*A Python + Streamlit powered automation tool for data specialists, analysts, and freelancers.*
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-green?logo=pandas\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-green?logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bibhu342/CSV-Cleaner-Pro)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+---
+
+## ⚡ Quickstart
+
+### 🧩 CLI Usage
+```bash
+python scripts/cli.py -i data/raw/sales_dirty.csv -o data/cleaned/sales_cleaned_final.csv
+
+streamlit run scripts/app.py
+
+Then open http://localhost:8501
 ---
 
 ## 🌐 Live Demo  
@@ -53,18 +63,6 @@ Real-world CSV files often contain inconsistent column names, mixed date formats
 
 ---
 
-## 🚀 Quickstart  
-
-```bash
-git clone https://github.com/bibhudendu-behera/CSV-Cleaner-Pro.git
-cd CSV-Cleaner-Pro
-pip install -r requirements.txt
-streamlit run scripts/app.py
-Then open http://localhost:8501
-```
-
----
-
 ## 📘 Project Overview
 
 **CSV-Cleaner-Pro** is a production-ready, automated Python tool built to clean and standardize messy sales data in CSV format.
@@ -76,15 +74,6 @@ It reads raw datasets, fixes missing and inconsistent values, validates business
 
 To automate the process of cleaning messy CSV data using **Python + Pandas**,
 and wrap it in an interactive **Streamlit UI** for non-technical users to easily upload, preview, and download cleaned files.
-
----
-
-## ⚙️ Tech Stack
-
-* **Language:** Python (v3.11)
-* **Libraries:** Pandas, NumPy, Streamlit, Pathlib
-* **Tools:** VS Code, GitHub
-* **Core Script:** `scripts/clean_sales_data.py`
 
 ---
 
@@ -201,16 +190,6 @@ CSV-Cleaner-Pro/
 
 ---
 
-## 🧮 Demo Screenshots
-
-| Dataset           | Screenshot                |
-| ----------------- | ------------------------- |
-| Sample Sales Data | `assets/demo_clean_1.png` |
-| Retail Sales Data | `assets/demo_clean_2.png` |
-| USA Sales Dataset | `assets/demo_clean_3.png` |
-
----
-
 ## 🧠 Key Learnings
 
 * Real-world data cleaning using Pandas
@@ -222,10 +201,22 @@ CSV-Cleaner-Pro/
 
 ## 🚀 Future Enhancements
 
-* Add CLI arguments (`--input`, `--output`)
 * Add progress tracking and logging
-* Deploy on Streamlit Cloud
 * Add visualization / EDA mode (sales trends, top categories)
+* Export cleaning report as PDF
+* Integration with Google Sheets API
+
+---
+
+## 📦 Deliverables
+
+| Item                        | Description                                          |
+| --------------------------- | ---------------------------------------------------- |
+| ✅ **CLI Tool**              | Command-line cleaner with `--input`, `--output` args |
+| ✅ **Streamlit App**         | Web interface for upload → clean → download          |
+| ✅ **CI-Tested Codebase**    | Automated tests + GitHub Actions                     |
+| ✅ **Example Data & Report** | Sample `sales_dirty.csv` + cleaning summary          |
+| ✅ **Documentation**         | README + demo screenshots + usage guide              |
 
 ---
 
@@ -235,7 +226,9 @@ CSV-Cleaner-Pro/
 🚀 Aspiring AI Engineer | Freelance Data Specialist  
 📍 Bangalore, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b)
-
+💼 [GitHub](https://github.com/bibhu342)
+📧 bibhu342@gmail.com
+🎯 [Fiverr Profile](https://www.fiverr.com/s/7YEbRPk)
 ---
 
 ## 📜 License
@@ -243,34 +236,3 @@ CSV-Cleaner-Pro/
 MIT License © 2025 — free to use and modify with attribution.
 
 ---
-
-## 📦 Quickstart
-
-1. **Clone**
-    ```bash
-    git clone https://github.com/bibhu342/CSV-Cleaner-Pro.git
-    cd CSV-Cleaner-Pro
-
-2. **Create & activate venv**
-    ```bash
-    python -m venv .venv
-    .\.venv\Scripts\Activate.ps1   # PowerShell
-    # or: source .venv/bin/activate  # macOS / Linux
-
-2. **Install & run**
-    ```bash
-    python -m pip install -e .
-    csv-cleaner --input path/to/raw.csv --output path/to/clean.csv
-
-📞 Contact / Hire Me
-
-Need a customized CSV-cleaning solution or automation setup?
-
-GitHub : [bibhu342](https://github.com/bibhu342)
-
-LinkedIn : [Bibhudendu Behera](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b/)
-
-Email : bibhu342@gmail.com
-
-Fiverr : https://www.fiverr.com/users/bibhudendubeher/manage_gigs 
-
