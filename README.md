@@ -198,5 +198,4 @@ Bangalore, India
 ---
 
 ## 📜 License
-
 MIT License © 2025 — Free to use and modify with attribution.
