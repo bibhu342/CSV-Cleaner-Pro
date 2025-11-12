@@ -29,6 +29,8 @@ jobs:
           else
             pip install pytest
           fi
+          # ensure pytest available even if requirements install failed
+          pip install pytest
 
       - name: Run unit tests
         run: pytest -q
